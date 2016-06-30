@@ -1,0 +1,5 @@
+plex
+temp
+.*
+pywhatauto/logs
+TV
